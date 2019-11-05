@@ -1,4 +1,4 @@
 let a =10
 console.log(a);
-let b= 20;
-document.write(b)
+let c= 20;
+document.write(c)
